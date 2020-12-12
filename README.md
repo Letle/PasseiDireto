@@ -6,6 +6,7 @@ Não montei as cargas para focar na construção do pipeline da Base B, que mesm
 
 
 Utilizei o Jupyter Notebook para leitura dos DataSet, para executar é só baixar via pip, bem como os pacotes pertinentes.
+Deve-se alterar a variável path nos dois notebooks para o caminho do seu repositório.
 
 
 ***    Reposta da pergunta   ***
